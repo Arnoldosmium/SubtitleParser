@@ -1,3 +1,11 @@
+/* Subtitle parser for processing theater scripts
+ * Ver 0.0.1 beta
+ *
+ * Arnold Lin
+ * 01.29.2016
+ * Posted: 02.21.2016
+ */
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.InputMismatchException;
